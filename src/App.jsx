@@ -229,22 +229,22 @@ const SportsSection = () => {
   const sports = [
     { 
       name: 'Kick-Boxing', 
-      image: 'https://images.unsplash.com/photo-1555597673-b21d5c935865?w=600&h=400&fit=crop',
+      image: 'https://www.estilomma.com/images/noticias/thumbnails/que%CC%81%20es%20el%20kick%20boxing_thumb_1300x725.jpg',
       description: 'High-intensity combat sport'
     },
     { 
       name: 'Table Tennis', 
-      image: 'https://images.unsplash.com/photo-1593766788306-28561086694e?w=600&h=400&fit=crop',
+      image: 'https://myindianthings.com/cdn/shop/products/6_6a696cd2-72a0-4d15-849e-2f63d94573c8_700x.jpg?v=1672682055',
       description: 'Fast-paced indoor sport'
     },
     { 
       name: 'Football', 
-      image: 'https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=400&fit=crop',
+      image: 'https://www.laprensaoriente.info/wp-content/uploads/2020/06/Futbol_Cuando1.jpg',
       description: 'The beautiful game'
     },
     { 
       name: 'Cricket', 
-      image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=600&h=400&fit=crop',
+      image: 'https://i.pinimg.com/736x/04/3e/1c/043e1c43cdd93d134b04ac0731622dcb.jpg',
       description: 'Gentleman\'s game'
     },
     { 
