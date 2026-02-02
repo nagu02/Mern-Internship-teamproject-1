@@ -249,12 +249,12 @@ const SportsSection = () => {
     },
     { 
       name: 'Silambam', 
-      image: 'https://images.unsplash.com/photo-1555597408-26bc8e548a46?w=600&h=400&fit=crop',
+      image: 'https://images.jdmagicbox.com/v2/comp/mumbai/t7/022pxx22.xx22.240812143255.u9t7/catalogue/silambam-mumbai-mulund-west-mumbai-gyms-zq7nooe6d4.jpg',
       description: 'Traditional martial art'
     },
     { 
       name: 'Archery', 
-      image: 'https://images.unsplash.com/photo-1511067007398-28e00fa2f5e5?w=600&h=400&fit=crop',
+      image: 'https://www.outfit4events.cz/images/palette/shared/www/multimedia/demontaz-luku-01.1443294657.1716893196.jpg.webp',
       description: 'Precision & focus'
     }
   ];
