@@ -1,0 +1,22 @@
+{
+  "name": "5rings-sports-website-3d",
+  "version": "2.0.0",
+  "description": "Modern, sporty website with Three.js 3D animations for 5Rings Multi Sports Facility",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "@emailjs/browser": "^3.11.0",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
